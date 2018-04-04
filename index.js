@@ -1,6 +1,6 @@
 var androidKeyCodes = {
-  "BACKSPACE": 67,
-  "ENTER": 66,
+	"BACKSPACE": 67,
+	"ENTER": 66,
 	"A": 29,
 	"B": 30,
 	"C": 31,
@@ -27,9 +27,12 @@ var androidKeyCodes = {
 	"X": 52,
 	"Y": 53,
 	"Z": 54,
-  " ": 62,
-  "ARROWUP" : 20,
-  "ARROWDOWN" : 19
+	" ": 62,
+	"ARROWUP" : 20,
+	"ARROWDOWN" : 19,
+	"HOME" : 3,
+	"BACK" : 4,
+	"MENU" : 82
 }
 
 
