@@ -1,2 +1,2 @@
 # android-keycodes
-converts keyboard keycodes to android keycodes
+Converts keyboard keycodes to Android keycodes
