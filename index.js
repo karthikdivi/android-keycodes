@@ -44,6 +44,7 @@ var androidKeyCodes = {
   "Y": 53,
   "Z": 54,
   " ": 62,
+  "SPACE": 62,
 
   "BACKSPACE": 67,
   "ENTER": 66,
