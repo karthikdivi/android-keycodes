@@ -4,7 +4,7 @@
   "description": "Converts keyboard keycodes to Android keycodes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/karthikdivi/android-keycodes/issues"
   },
-  "homepage": "https://github.com/karthikdivi/android-keycodes#readme"
+  "homepage": "https://github.com/karthikdivi/android-keycodes#readme",
+  "devDependencies": {
+    "tap": "^11.1.3"
+  }
 }
