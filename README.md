@@ -28,3 +28,5 @@ androidKeycodes('Enter') // returns 66
 androidKeycodes('Foo') // returns undefined
 
 ```
+## Demo
+https://runkit.com/embed/gat645oqcjwv
